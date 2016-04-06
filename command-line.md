@@ -1,13 +1,17 @@
-the command line is a text based interface whis utilises text commands and prompts to navigate through your files, rather than a mouse.
+
+The command line is a text based interface which utilises text commands and prompts to navigate through your files, rather than using a mouse.
+
 
 Commands:
 
-pwd -shows where you are, what directories you are going through.
-ls - lists directories. 
-cd - move through directories.
-touch - create a file.
-rm(dir) - remove a file or directory.
-mkdir - create a directory.
-cp - copy a directory.
-pushd- create directory stack.
-popd- exit the directory stack.
+
+	pwd - shows where you are, what directories you are going though.
+	ls - lists directories in the directory you are in.
+	cd - move through the directories.
+	touch - create a file.
+	rm(dir) - remove a directory or file.
+	mkdir - make a directory.
+	cp - copy a directory.
+	pushd - create a directory stack.
+	popd - exit a directory stack.
+	hostname - name of the computer.
