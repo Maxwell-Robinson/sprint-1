@@ -1,5 +1,5 @@
 
-The command line is a text based interface which utilises text commands and prompts to navigate through your files, rather than using a mouse.
+The command line is a text based interface which utilises text commands and prompts to navigate through your files, rather than using a mouse
 
 
 Commands:
